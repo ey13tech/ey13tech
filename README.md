@@ -15,7 +15,7 @@ My journey in computer science has ignited a fervent passion for cybersecurity, 
 | SIEM Implementation and Log Analysis          | Elastic SIEM Lab|
 | Network Traffic Monitoring and Attack Detection | Elastic SIEM Lab|
 | Querying for Incident Identification          | Elastic SIEM Lab|
-
+| Alert Rule Creation                           | Elastic SIEM Lab|
 ## Tools
 
 
