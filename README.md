@@ -12,13 +12,12 @@ My journey in computer science has ignited a fervent passion for cybersecurity, 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Elastic SIEM Lab|
-| Network Traffic Monitoring and Attack Detection | Elastic SIEM Lab|
-| Querying for Incident Identification          | Elastic SIEM Lab|
-| Alert Rule Creation                           | Elastic SIEM Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/ey13tech/Elastic-SIEM-Lab/tree/main" target="_blank">Elastic SIEM Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ey13tech/Elastic-SIEM-Lab/tree/main" target="_blank">Elastic SIEM Lab</a>|
+| Querying for Incident Identification          | <a href="https://github.com/ey13tech/Elastic-SIEM-Lab/tree/main" target="_blank">Elastic SIEM Lab</a>|
+| Alert Rule Creation                           | <a href="https://github.com/ey13tech/Elastic-SIEM-Lab/tree/main" target="_blank">Elastic SIEM Lab</a>|
+
 ## Tools
-
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -42,4 +41,5 @@ My journey in computer science has ignited a fervent passion for cybersecurity, 
 </div>
 
 ## Projects
-- Elastic SIEM Lab
+- <a href="https://github.com/ey13tech/Elastic-SIEM-Lab/tree/main" target="_blank">Elastic SIEM Lab</a>
+
