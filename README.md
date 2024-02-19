@@ -1,17 +1,13 @@
 # Hello, I'm Eddie Yon
 <a href="[https://linkedin.com](https://www.linkedin.com/in/eddie-yon/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
 As a student in my final semester, I am on track to graduate with a Bachelor's of Science in Cybercriminology in May. With a deep-seated interest in technology and a commitment to tackling intricate problems, I am poised to contribute meaningfully to the field of cybersecurity.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has ignited a fervent passion for cybersecurity, propelling me towards a desire to transition into this dynamic field. I am particularly eager to pursue opportunities within a Security Operations Center (SOC), where I aim to leverage my skills and knowledge as a Tier 1 Analyst to contribute effectively to safeguarding digital assets and mitigating cyber threats.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
