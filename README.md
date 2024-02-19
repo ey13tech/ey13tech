@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+As a student in my final semester, I am on track to graduate with a Bachelor's of Science in Cybercriminology in May. With a deep-seated interest in technology and a commitment to tackling intricate problems, I am poised to contribute meaningfully to the field of cybersecurity.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
