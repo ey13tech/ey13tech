@@ -31,7 +31,7 @@ My journey in computer science has ignited a fervent passion for cybersecurity, 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B%20(Expected%20Mar%202024)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B%20(Expected%20Apr%202024)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-FEMA%20ICS%20100-007ACC?&style=for-the-badge&logo=FEMA&logoColor=white" />
 </div>
 
