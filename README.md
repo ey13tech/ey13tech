@@ -16,7 +16,10 @@ My journey in computer science has ignited a fervent passion for cybersecurity, 
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/ey13tech/Elastic-SIEM-Lab/tree/main" target="_blank">Elastic SIEM Lab</a>|
 | Querying for Incident Identification          | <a href="https://github.com/ey13tech/Elastic-SIEM-Lab/tree/main" target="_blank">Elastic SIEM Lab</a>|
 | Alert Rule Creation                           | <a href="https://github.com/ey13tech/Elastic-SIEM-Lab/tree/main" target="_blank">Elastic SIEM Lab</a>|
-
+| Hardware & Software Troubleshooting                           | <a href="https://github.com/ey13tech/OC-Builds/tree/main" target="_blank">PC Building</a>|
+| Computer Configuration                           | <a href="https://github.com/ey13tech/OC-Builds/tree/main" target="_blank">PC Building</a>|
+| Part Sourcing & Compatibility                           | <a href="https://github.com/ey13tech/OC-Builds/tree/main" target="_blank">PC Building</a>|
+| Attention to Detail                           | <a href="https://github.com/ey13tech/OC-Builds/tree/main" target="_blank">PC Building</a>|
 ## Tools
 ### Network
 <div>
