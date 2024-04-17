@@ -38,4 +38,5 @@ My journey in computer science has ignited a fervent passion for cybersecurity, 
 
 ## Projects
 - <a href="https://github.com/ey13tech/Elastic-SIEM-Lab/tree/main" target="_blank">Elastic SIEM Lab</a>
+- <a href="https://github.com/ey13tech/PC-Builds/tree/main" target="_blank">PC Building</a>
 
