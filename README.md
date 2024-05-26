@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/eddie-yon/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-As a student in my final semester, I am on track to graduate with a Bachelor's of Science in Cybercriminology in May. With a deep-seated interest in technology and a commitment to tackling intricate problems, I am poised to contribute meaningfully to the field of cybersecurity.
+I'm a recent Florida State University graduate with a Bachelor's of Science in Cybercriminology. I have a deep-seated interest in technology and a commitment to tackling intricate problems. 
 
 ## Objective
 
