@@ -2,11 +2,11 @@
 <a href="https://www.linkedin.com/in/eddie-yon/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I'm a recent Florida State University graduate with a Bachelor's of Science in Cybercriminology. I have a deep-seated interest in technology and a commitment to tackling intricate problems. 
+I'm a Florida State University graduate with a Bachelor's of Science in Cybercriminology. I have a deep-seated interest in technology and a commitment to tackling intricate problems. 
 
 ## Objective
 
-My journey in computer science has ignited a fervent passion for cybersecurity, propelling me towards a desire to transition into this dynamic field. I am particularly eager to pursue opportunities within a Security Operations Center (SOC), where I aim to leverage my skills and knowledge as a Tier 1 Analyst to contribute effectively to safeguarding digital assets and mitigating cyber threats.
+My journey in computer science has ignited a fervent passion for cybersecurity, propelling me towards a desire to transition into this dynamic field.
 
 ## Skills
 
